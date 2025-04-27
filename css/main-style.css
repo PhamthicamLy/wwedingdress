@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+*{scroll-behavior: smooth}
+#hero
+{
+	width: 100%;	
+	background-image: url("../images/bg-hero.jpg");
+	background-repeat: no-repeat; background-size: cover
+
+}
+
+#testimonial
+{
+	width: 100%;	
+	background-image:url("../images/the-luxe.jpg");
+	background-repeat: no-repeat; background-size: cover
+}
